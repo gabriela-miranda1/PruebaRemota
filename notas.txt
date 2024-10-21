@@ -1,3 +1,4 @@
 Este es un nuevo archivo
 estoy cambiando de ramas para trabajar un nuevo componente
 bienvenidos a github
+nueva rama
